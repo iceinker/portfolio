@@ -1,0 +1,23 @@
+[
+    {
+      "role": "Responsive Web Design",
+      "startDate": "freeCodeCamp",
+      "linkedin_certificates": ["View in Linkedin"],
+      "FCC_certificates": ["View in FCC"],
+      "imageSrc": "history/rwd.jpg"
+    },
+    {
+      "role": "Legacy JavaScript Algorithms and Data Structures",
+      "startDate": "freeCodeCamp",
+      "linkedin_certificates": ["View in Linkedin"],
+      "FCC_certificates": ["View in FCC"],
+      "imageSrc": "history/js.png"
+    },
+    {
+      "role": "Front End Development Libraries",
+      "startDate": "freeCodeCamp",
+      "linkedin_certificates": ["View in Linkedin"],
+      "FCC_certificates": ["View in FCC"],
+      "imageSrc": "history/fedl.jpg"
+    }
+  ]

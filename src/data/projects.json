@@ -1,0 +1,26 @@
+[
+    {
+      "title": "restaurant web application",
+      "imageSrc": "projects/cook.png",
+      "description": "This is a react.js landing page meaking great use of CSS.",
+      "skills": ["React", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/iceinker/restaurant-web"
+    },
+    {
+      "title": "business web application",
+      "imageSrc": "projects/bank.png",
+      "description": "This one is a modern react.js landing page stylized with Tailwind.",
+      "skills": ["React", "Node", "TailwindCSS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/iceinker/bank-web"
+    },
+    {
+      "title": "Gorgo",
+      "imageSrc": "projects/app.jpg",
+      "description": "here is a react native mobile app utilizing expo, appwrite and nativewind.",
+      "skills": ["React Native", "Node", "nativewind", "Expo", "Appwrite"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/iceinker/Gorgo"
+    }
+  ]
