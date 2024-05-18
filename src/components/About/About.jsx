@@ -8,11 +8,6 @@ export const About = () => {
     <section className={styles.container} id="about">
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
-        <img
-          src={getImageUrl("about/aboutImage.jpg")}
-          alt="Me sitting with a laptop"
-          className={styles.aboutImage}
-        />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Cursor icon" />
@@ -39,7 +34,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Always Improving</h3>
               <p>
-                I am always searching fon new skills to acquire while honing the onse i already have
+                I am always searching fon new skills to acquire while honing the
+                onse i already have
               </p>
             </div>
           </li>
